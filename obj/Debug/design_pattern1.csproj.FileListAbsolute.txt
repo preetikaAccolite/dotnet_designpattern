@@ -1,7 +1,0 @@
-C:\Users\preetika.k_int1599\source\repos\design_pattern1\design_pattern1\bin\Debug\design_pattern1.exe.config
-C:\Users\preetika.k_int1599\source\repos\design_pattern1\design_pattern1\bin\Debug\design_pattern1.exe
-C:\Users\preetika.k_int1599\source\repos\design_pattern1\design_pattern1\bin\Debug\design_pattern1.pdb
-C:\Users\preetika.k_int1599\source\repos\design_pattern1\design_pattern1\obj\Debug\design_pattern1.csproj.AssemblyReference.cache
-C:\Users\preetika.k_int1599\source\repos\design_pattern1\design_pattern1\obj\Debug\design_pattern1.csproj.CoreCompileInputs.cache
-C:\Users\preetika.k_int1599\source\repos\design_pattern1\design_pattern1\obj\Debug\design_pattern1.exe
-C:\Users\preetika.k_int1599\source\repos\design_pattern1\design_pattern1\obj\Debug\design_pattern1.pdb
