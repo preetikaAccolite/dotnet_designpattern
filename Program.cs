@@ -17,16 +17,16 @@ namespace design_pattern1
             int option = Convert.ToInt32(Console.ReadLine());
             switch (option) {
                 case 1:
-                    IPayment payment = PaymentFactory.create(Payment_cards.Membershipcard);
-                    payment.Pay(amount);
+                    PaymentContext pay = new PaymentContext(new Membershipcard());
+                    pay.performpayment(amount);
                     break;
                 case 2:
-                    IPayment payment1 = PaymentFactory.create(Payment_cards.Employeecard);
-                    payment1.Pay(amount);
+                    PaymentContext pay1 = new PaymentContext(new Employeecard());
+                    pay1.performpayment(amount);
                     break;
                 case 3:
-                    IPayment payment2 = PaymentFactory.create(Payment_cards.Nocard);
-                    payment2.Pay(amount);
+                    PaymentContext pay2 = new PaymentContext(new Nocard());
+                    pay2.performpayment(amount);
                     break;
                 default:
                     Console.WriteLine("this payment method does not exist");

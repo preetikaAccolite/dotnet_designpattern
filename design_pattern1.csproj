@@ -47,8 +47,7 @@
     <Compile Include="IPayment.cs" />
     <Compile Include="Membershipcard.cs" />
     <Compile Include="Nocard.cs" />
-    <Compile Include="PaymentFactory.cs" />
-    <Compile Include="Payment_cards.cs" />
+    <Compile Include="PaymentContext.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
